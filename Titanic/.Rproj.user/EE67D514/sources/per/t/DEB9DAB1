@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519048220452.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "124|49|145|2|\n",
+    "hash" : "1189095284",
+    "id" : "DEB9DAB1",
+    "lastKnownWriteTime" : 1519139419,
+    "last_content_update" : 1519139419056,
+    "path" : "~/Documents/Kaggle/Titanic/Titanic.R",
+    "project_path" : "Titanic.R",
+    "properties" : {
+        "cursorPosition" : "308,0",
+        "scrollLine" : "294",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
